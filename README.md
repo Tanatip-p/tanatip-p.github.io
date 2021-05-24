@@ -4,7 +4,7 @@
 ### Project 1:
 __Cyclistic Project__: A Project with the case study of __marketing analysis__ from Google Data Analytics Professional Certificate program on Coursera
 
-## Certificate
+## Certificates
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PQNNS3H3MK3Y) (Coursera)
    - __Learned Skills__
      - Thought Process: Ask, Prepare, Process, Analyze, Share, and Act 
