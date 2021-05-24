@@ -1,32 +1,28 @@
-# Analysis of Marketing Data
-
-## Project Overview
-This project was a case study in Google Data Analytics Professional Certificate program on Coursera
-
-## Introduction
-  I assigned to perform many real-world tasks of a junior data analyst and work for a fictional company called Cyclistic. In order to answer the key business questions, I followed the steps of the data analysis process: __ask, prepare, analyze, share, and act__
-  ### Scenario
-  I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director marketing believes the company's future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insight, my team will design a new marketing strategy to convert casual riders into annual members.
-
-## Problem
-  I wonder if Is there any difference in the use of the bike-share program of casual riders and annual members?
-
-## Solution
-  I have done analysis and compare to see what casual riders and annual members different.
-
-## Conclusions
-- The average ride duration of casual riders tends to decrease but annual members is likely to be stable
-- Casual riders had the highest decrease in average ride duration during Spring, but in minute units, the greatest decrease in Winter (127.9 mins). Annual members had the highest average ride duration increase during Spring.
-- Casual riders have maximum average ride durations on Tuesdays, Annual members are on Sundays.
-- Casual riders use most services on Fridays, Saturdays, and Sundays. Annual members are Tuesday through Saturday.
-- The station where casual riders use bike-share service the most is Streeter Dr & Grand Ave. and annual members is Clark St & Elm St.
-
-## Next steps
-1.	Marketing should be performed on Friday, Saturday, and Sunday as this is the day with the highest service usage of casual riders.
-2.	Perform marketing at the following start stations. These are the top 3 places with casual riders go to use the bike-share service:
-    -	Streeter Dr & Grand Ave. 
-    -	Lake Shore & Monroe St
-    -	Millennium Park
-3. Research and explore more on why January saw a significant drop in average ride durations of casual riders, and why the trend of casual riders is steadily declining.
+# Data Analyst Portfolio
 
 
+## Project 1:
+__cyclistic_project__: A case study in Google Data Analytics Professional Certificate program on Coursera
+
+## Certificate
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PQNNS3H3MK3Y) (Coursera)
+   - Learned Skills
+     - Thought Process: Ask, Prepare, Process, Analyze, Share, and Act 
+     - Spreadsheets: Google sheets, Excel
+     - SQL
+     - Tableau
+     - R
+-  [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/certificate/UC-f0050a80-808b-4907-b2c0-540b469660ad/) (Udemy)
+   - Learned Skills
+     - Relational Database Management System
+     - Basic to Intermediate SQL
+- [Microsoft Excel - Data Analysis with Excel Pivot Tables](https://www.udemy.com/certificate/UC-104457a8-e66b-4933-861a-895c6a1a1238/) (Udemy)
+   - Learned Skills
+     - Advanced Pivot Table
+     - Pivot Chart 
+- [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/ac2697619c9d4bccd4b853fef17a218cd8315bd4) (DataCamp)
+   - Learned Skills
+     - Explore Data
+     - Preprae Data e.g. Vlookup function
+     - Analyze Data
+ 
