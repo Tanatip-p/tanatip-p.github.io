@@ -1,7 +1,6 @@
 USE employees;
 
 # Exercise 1
-# Find the average salary of male and female employees in each department.
 SELECT
     d.dept_name, e.gender, ROUND(AVG(salary), 2) as average_salary
 FROM
@@ -15,12 +14,14 @@ FROM
 GROUP BY de.dept_no , e.gender
 ORDER BY de.dept_no;
 
+# Exercise 2
 SELECT MIN(dept_no)
 FROM dept_emp;
 
 SELECT MAX(dept_no)
 FROM dept_emp;
-    
+
+# Exercise 3
 SELECT
     emp_no,
     (SELECT
@@ -38,10 +39,12 @@ FROM
 WHERE
     emp_no <= 10040; 
 
+# Exercise 4
 SELECT *
 FROM employees
 WHERE YEAR(hire_date) = 2000;
 
+# Exercise 5
 SELECT *
 FROM titles
 WHERE title LIKE ('%engineer%');
@@ -50,6 +53,7 @@ SELECT *
 FROM titles
 WHERE title LIKE ('%senior engineer%');    
 
+# Exercise 6
 DROP procedure IF EXISTS last_department;
 
 DELIMITER $$
@@ -76,27 +80,12 @@ DELIMITER ;
 
 call employees.last_department(10010);
 
+# Exercise 7
 SELECT COUNT(*) as num_contact
 FROM salaries
 WHERE salary >= 100000 AND DATEDIFF(to_date, from_date) > 365;
 
-DROP TRIGGER IF EXISTS trig_hire_date;
-
-DELIMITER $$
-CREATE TRIGGER trig_hire_date
-BEFORE INSERT ON employees
- 
-FOR EACH ROW
-BEGIN 
-    DECLARE today date;
-    SELECT date_format(sysdate(), '%Y-%m-%d') INTO today;
- 
-	IF NEW.hire_date > today THEN
-		SET NEW.hire_date = today;
-	END IF;
-END $$
- 
-DELIMITER ;
+# Exercise 8
 
 DROP FUNCTION IF EXISTS f_highest_salary;
 
@@ -148,6 +137,8 @@ DELIMITER ;
 
 
 SELECT f_lowest_salary(10356);
+
+# Exercise 9
 
 DROP FUNCTION IF EXISTS f_salary;
 
