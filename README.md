@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Junior Data Analyst Portfolio
 
 
 ### Project 1:
