@@ -26,6 +26,6 @@ Contain the exercises from the course on Udemy with my solutions and exercise sc
 - [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/ac2697619c9d4bccd4b853fef17a218cd8315bd4) (DataCamp)
    - __Learned Skills__
      - Explore Data
-     - Preprae Data e.g. Vlookup function
+     - Prepare Data e.g. Vlookup function
      - Analyze Data
  
