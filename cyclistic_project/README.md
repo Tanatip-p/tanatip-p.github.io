@@ -16,7 +16,7 @@ This project was a case study in Google Data Analytics Professional Certificate 
 
 ## Conclusions
 - The average ride duration of casual riders tends to decrease but annual members is likely to be stable
-- Casual riders had the highest decrease in average ride duration during Spring, but in minute units, the greatest decrease in Winter (127.9 mins). Annual members had the highest average ride duration increase during Spring.
+- Casual riders had the highest decrease in average ride duration during Spring, but in minute units, the greatest decrease in Winter (127.9 minutes). Annual members had the highest average ride duration increase during Spring.
 - Casual riders have maximum average ride durations on Tuesdays, Annual members are on Sundays.
 - Casual riders use most services on Fridays, Saturdays, and Sundays. Annual members are Tuesday through Saturday.
 - The station where casual riders use bike-share service the most is Streeter Dr & Grand Ave. and annual members is Clark St & Elm St.
