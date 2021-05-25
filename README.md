@@ -33,4 +33,11 @@ Contain the exercises from the course on Udemy with my solutions and exercise sc
      - Explore Data
      - Prepare Data e.g. Vlookup function
      - Analyze Data
+- [Power BI Essentials](https://www.skooldio.com/certificate/b602158a-c368-4317-acc2-578f91da04be) (Skooldio)
+   - __Learned Skills__
+     - Basic commands for using Power BI
+     - Connecting data from different databases to Power BI
+     - Data Cleansing to prepare for Data Modeling
+     - Data analysis
+     - Data Visualization in various ways
  
