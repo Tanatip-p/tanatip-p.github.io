@@ -27,7 +27,7 @@ Contain the exercises from the course on Udemy with my solutions and exercise sc
 - [Microsoft Excel - Data Analysis with Excel Pivot Tables](https://www.udemy.com/certificate/UC-104457a8-e66b-4933-861a-895c6a1a1238/) (Udemy)
    - __Learned Skills__
      - Advanced Pivot Table
-     - Pivot Chart 
+     - Includes: Pivot Table layouts and styles; Design and formatting options; Sorting, Filtering, and Grouping tools; Calculated fields, items, and values; Pivot Charts, slicers, and timelines; Interactive Excel dashboards.
 - [Data Analysis in Excel](https://www.datacamp.com/statement-of-accomplishment/course/ac2697619c9d4bccd4b853fef17a218cd8315bd4) (DataCamp)
    - __Learned Skills__
      - Explore Data
