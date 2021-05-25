@@ -8,7 +8,7 @@ __Cyclistic Project__: A Project with the case study of __marketing analysis__ f
 Contain the exercises from the course on Udemy with my solutions and exercise script.
 
 ## Certificates
-- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/anh5HFbAdXbQ1bL14XvYkpcc) (Google Skillshop)
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/anh5HFbAdXbQ1bL14XvYkpcc) (Google: Skillshop)
    - __Learned Skills__
       - Basic and advanced Google Analytics concepts
       - Includes: planning and principles; implementation and data collection; configuration and administration;
