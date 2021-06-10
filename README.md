@@ -4,6 +4,9 @@
 ### Project 1:
 __Cyclistic Project__: A Project with the case study of __marketing analysis__ from Google Data Analytics Professional Certificate Program on Coursera
 
+### Project 2:
+__Google Merchandise Store Marketing Performance__: a project to show the __marketing perfomance__ of the Google Merchandise Store website in April 2020.
+
 ### SQL- Practices:
 Contain the exercises from the course on Udemy with my solutions and exercise script.
 
